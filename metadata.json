@@ -1,0 +1,6 @@
+{
+  "name": "تطبيقاتي - منصة رفع التطبيقات",
+  "description": "منصة بسيطة وأنيقة لرفع وإدارة تطبيقاتك الخاصة ومشاركتها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
